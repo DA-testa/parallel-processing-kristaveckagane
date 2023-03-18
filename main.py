@@ -25,7 +25,6 @@ def main():
     # n - thread count 
     # m - job count
     n, m = map(int,input().split())
-    m = int(input().strip())
     data = list(map(int, input().split()))
 
     # second line - data 
